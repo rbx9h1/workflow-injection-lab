@@ -6,3 +6,4 @@ test6
 chain-test
 chain-test2
 chain-test3
+chain-delim
