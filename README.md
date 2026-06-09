@@ -4,3 +4,4 @@ test4
 test5
 test6
 chain-test
+chain-test2
